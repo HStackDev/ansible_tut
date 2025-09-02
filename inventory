@@ -1,1 +1,3 @@
-192.168.122.136
+[all]
+192.168.122.136 ansible_user=devops ansible_python_interpreter=/usr/bin/python3
+
